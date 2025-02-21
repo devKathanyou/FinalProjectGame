@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 328fe283e91697641a099738581251c4, type: 3}
+  m_Name: QNPC7
+  m_EditorClassIdentifier: 
+  questName: "\u0E27\u0E34\u0E48\u0E07!!!!"
+  description: 
+  requiredItems: []
+  requiredItemCounts: 
+  rewardItems: []
+  requiredQuest: {fileID: 11400000, guid: d1753a2240daea243907a89b361c5d3c, type: 2}
+  relatedItems: []
+  combinedItem: {fileID: 0}
