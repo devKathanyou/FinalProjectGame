@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5e79c165c2326bd49b9cc4746054087b, type: 3}
-  m_Name: "Key\u0E0A\u0E31\u0E49\u0E195(\u0E14\u0E2D\u0E012)"
+  m_Name: "Key\u0E2B\u0E49\u0E2D\u0E07\u0E28\u0E34\u0E25\u0E1B\u0E30"
   m_EditorClassIdentifier: 
-  itemName: "Key\u0E0A\u0E31\u0E49\u0E195(\u0E14\u0E2D\u0E012)"
+  itemName: "Key\u0E2B\u0E49\u0E2D\u0E07\u0E28\u0E34\u0E25\u0E1B\u0E30"
   icon: {fileID: 21300000, guid: 91d5cc118f2d95943a5b2d63cafb9b2f, type: 3}
   isConsumable: 0
   staminaBoost: 0
   healthBoost: 0
   isKey: 1
-  keyID: 5
+  keyID: 3

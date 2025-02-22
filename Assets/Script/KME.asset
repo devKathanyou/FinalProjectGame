@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5e79c165c2326bd49b9cc4746054087b, type: 3}
-  m_Name: "Key\u0E0A\u0E31\u0E49\u0E194"
+  m_Name: KME
   m_EditorClassIdentifier: 
-  itemName: "Key\u0E0A\u0E31\u0E49\u0E194"
-  icon: {fileID: 21300000, guid: 91d5cc118f2d95943a5b2d63cafb9b2f, type: 3}
+  itemName: KME
+  icon: {fileID: 21300000, guid: c6bc7d9089b4daf4689fd93da5c66a6e, type: 3}
   isConsumable: 0
   staminaBoost: 0
   healthBoost: 0
-  isKey: 1
-  keyID: 4
+  isKey: 0
+  keyID: 

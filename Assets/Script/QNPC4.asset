@@ -18,5 +18,3 @@ MonoBehaviour:
   requiredItemCounts: 
   rewardItems: []
   requiredQuest: {fileID: 11400000, guid: ae5cb511763e81744aa0fd0150018c71, type: 2}
-  relatedItems: []
-  combinedItem: {fileID: 0}

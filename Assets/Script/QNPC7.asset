@@ -13,10 +13,13 @@ MonoBehaviour:
   m_Name: QNPC7
   m_EditorClassIdentifier: 
   questName: "\u0E27\u0E34\u0E48\u0E07!!!!"
-  description: 
-  requiredItems: []
-  requiredItemCounts: 
-  rewardItems: []
-  requiredQuest: {fileID: 11400000, guid: d1753a2240daea243907a89b361c5d3c, type: 2}
-  relatedItems: []
-  combinedItem: {fileID: 0}
+  description: "\u0E2B\u0E32\u0E2D\u0E38\u0E1B\u0E01\u0E23\u0E13\u0E4C\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E21\u0E32\u0E17\u0E33\u0E23\u0E30\u0E40\u0E1A\u0E34\u0E14"
+  requiredItems:
+  - {fileID: 11400000, guid: be03d0695a4787d48aa0013f60db9360, type: 2}
+  - {fileID: 11400000, guid: ca872e73d340bdb4b9eebb474a0ca868, type: 2}
+  - {fileID: 11400000, guid: afb89f10645dfc848bf4916eda5cbd82, type: 2}
+  - {fileID: 11400000, guid: 4c27add218ef1534da52e30c4a7d32d4, type: 2}
+  requiredItemCounts: 01000000010000000100000001000000
+  rewardItems:
+  - {fileID: 11400000, guid: 020e67b904ca1034f864d0abbef60153, type: 2}
+  requiredQuest: {fileID: 0}
